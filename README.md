@@ -3,7 +3,9 @@
 
 # Hola, soy Antonio Castro 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de **Sevilla**, estudiante del Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma, ando en busca de aprender nuevas tecnologías y crear proyectos innovadores. 🚀
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de **Sevilla**, actualmente estoy cursando el Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma en el IES Velázquez.📖
+Ando en busca de aprender nuevas tecnologías y crear proyectos innovadores. 🚀
+No dudes en contactarme !!!
 
 ---
 
