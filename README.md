@@ -50,17 +50,26 @@ Aquí podrás ver algunos de mis proyectos más recientes o en los que he colabo
 
 ## 🔗 Conecta conmigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/antonio-castro-y%C3%A9benes-19a8891a2/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/AntonioCastro-dev">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:antonio.casyeb@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/antonio-castro-y%C3%A9benes-19a8891a2/" style="text-decoration: none;">
+      <img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn" style="border-radius: 50%; vertical-align: middle;">
+      <span style="font-size: 22px; margin-left: 10px; vertical-align: middle;">LinkedIn</span>
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/AntonioCastro-dev" style="text-decoration: none;">
+      <img src="https://img.icons8.com/fluent/64/000000/github.png" alt="GitHub" style="border-radius: 50%; vertical-align: middle;">
+      <span style="font-size: 22px; margin-left: 10px; vertical-align: middle;">GitHub</span>
+    </a>
+  </p>
+  <p>
+    <a href="mailto:antonio.casyeb@gmail.com" style="text-decoration: none;">
+      <img src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="Email" style="border-radius: 50%; vertical-align: middle;">
+      <span style="font-size: 22px; margin-left: 10px; vertical-align: middle;">antonio.casyeb@gmail.com</span>
+    </a>
+  </p>
+</div>
 
 ---
 
