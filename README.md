@@ -12,13 +12,13 @@
 - 🔭 Actualmente explorando tecnologías interesantes.
 - 🌱 Siempre aprendiendo y mejorando mis habilidades.
 - 💬 Apasionado por el desarrollo y la innovación tecnológica.
-- 📫 ¿Quieres contactarme? Escríbeme a través de [LinkedIn](https://www.linkedin.com/in/antonio-castro-y%C3%A9benes-19a8891a2/).
+- 📫 antonio.casyeb@gmail.com
 
 ---
 
 ## 🛠️ Tecnologías & Herramientas
 
-Aquí algunos de los lenguajes y herramientas que manejo:
+Estos son algunos de los lenguajes y herramientas que manejo:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
@@ -33,12 +33,10 @@ Aquí algunos de los lenguajes y herramientas que manejo:
 
 ## 🚀 Proyectos Destacados
 
-Aquí podrás ver algunos de mis proyectos más recientes o en los que he colaborado:
+Aquí podrás ver algunos de mis proyectos más interesantes:
 
 - [**Proyecto 1**](#) - Descripción breve del proyecto.
 - [**Proyecto 2**](#) - Descripción breve del proyecto.
-
-<!-- Agrega más proyectos o enlaces relevantes -->
 
 ---
 
@@ -72,9 +70,9 @@ Aquí podrás ver algunos de mis proyectos más recientes o en los que he colabo
 
 ---
 
-## 🎉 ¡Gracias por pasar por aquí!
+## 🎉 ¡Gracias por pasarte!
 
-Espero que disfrutes explorando mis proyectos y colaboraciones. ¡No dudes en dejarme un mensaje o conectarte!
+Gracias por dedicarme una parte de tu tiempo. ¡No dudes en contactarme!
 <p align="center">
   <img src="https://i.pinimg.com/originals/5f/a2/1e/5fa21e87a7cb96c451ad49236e93b434.gif" alt="Gif de bienvenida" width="300" />
 </p>
