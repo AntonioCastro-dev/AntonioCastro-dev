@@ -1,5 +1,5 @@
 <!-- Banner: Reemplaza la URL de la imagen con tu propio banner -->
-![Banner](https://via.placeholder.com/1200x400?text=Banner+Placeholder)
+![Banner](./assets/banner.jpg)
 
 # Hola, soy Antonio Castro 👋
 
