@@ -42,16 +42,7 @@ Aquí podrás ver algunos de mis proyectos más interesantes:
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td align="center">
-      [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCastro-dev&show_icons=true&theme=radical)](https://github.com/AntonioCastro-dev)
-    </td>
-    <td align="center">
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCastro-dev&layout=compact&theme=radical)](https://github.com/AntonioCastro-dev)
-    </td>
-  </tr>
-</table>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCastro-dev&show_icons=true&theme=radical)](https://github.com/AntonioCastro-dev)
 
 ---
 
