@@ -51,13 +51,13 @@ Aquí podrás ver algunos de mis proyectos más recientes o en los que he colabo
 ## 🔗 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antonio-castro-y%C3%A9benes-19a8891a2/" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/antonio-castro-y%C3%A9benes-19a8891a2/" style="margin: 0 50px;">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/AntonioCastro-dev" style="margin: 0 10px;">
+  <a href="https://github.com/AntonioCastro-dev" style="margin: 0 50px;">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:antonio.casyeb@gmail.com" style="margin: 0 10px;">
+  <a href="mailto:antonio.casyeb@gmail.com" style="margin: 0 50px;">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
