@@ -60,4 +60,4 @@ Aquí podrás ver algunos de mis proyectos más recientes o en los que he colabo
 
 Espero que disfrutes explorando mis proyectos y colaboraciones. ¡No dudes en dejarme un mensaje o conectarte!
 
-![Gif de bienvenida]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://www.educaciontrespuntocero.com/wp-content/uploads/2019/06/homer.gif))
+![Gif de bienvenida](https://i.pinimg.com/originals/5f/a2/1e/5fa21e87a7cb96c451ad49236e93b434.gif)
