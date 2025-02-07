@@ -66,5 +66,6 @@ Aquí podrás ver algunos de mis proyectos más recientes o en los que he colabo
 ## 🎉 ¡Gracias por pasar por aquí!
 
 Espero que disfrutes explorando mis proyectos y colaboraciones. ¡No dudes en dejarme un mensaje o conectarte!
-
-![Gif de bienvenida](https://i.pinimg.com/originals/5f/a2/1e/5fa21e87a7cb96c451ad49236e93b434.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/5f/a2/1e/5fa21e87a7cb96c451ad49236e93b434.gif" alt="Gif de bienvenida" width="300" />
+</p>
