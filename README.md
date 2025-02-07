@@ -51,24 +51,18 @@ Aquí podrás ver algunos de mis proyectos más recientes o en los que he colabo
 ## 🔗 Conecta conmigo
 
 <div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/antonio-castro-y%C3%A9benes-19a8891a2/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/antonio-castro-y%C3%A9benes-19a8891a2/" style="text-decoration: none;">
       <img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn" style="border-radius: 50%; vertical-align: middle;">
       <span style="font-size: 22px; margin-left: 10px; vertical-align: middle;">LinkedIn</span>
     </a>
-  </p>
-  <p>
-    <a href="https://github.com/AntonioCastro-dev" style="text-decoration: none;">
+  <a href="https://github.com/AntonioCastro-dev" style="text-decoration: none;">
       <img src="https://img.icons8.com/fluent/64/000000/github.png" alt="GitHub" style="border-radius: 50%; vertical-align: middle;">
       <span style="font-size: 22px; margin-left: 10px; vertical-align: middle;">GitHub</span>
     </a>
-  </p>
-  <p>
-    <a href="mailto:antonio.casyeb@gmail.com" style="text-decoration: none;">
+  <a href="mailto:antonio.casyeb@gmail.com" style="text-decoration: none;">
       <img src="https://img.icons8.com/color/64/000000/gmail-new.png" alt="Email" style="border-radius: 50%; vertical-align: middle;">
       <span style="font-size: 22px; margin-left: 10px; vertical-align: middle;">antonio.casyeb@gmail.com</span>
     </a>
-  </p>
 </div>
 
 ---
