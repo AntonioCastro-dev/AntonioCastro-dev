@@ -33,12 +33,14 @@ Estos son algunos de los lenguajes y herramientas que manejo:
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados  
 
-Aquí podrás ver algunos de mis proyectos más interesantes:
+Aquí podrás ver algunos de mis proyectos más interesantes:  
 
-- [**Proyecto 1**](#) - Descripción breve del proyecto.
-- [**Proyecto 2**](#) - Descripción breve del proyecto.
+- [**Sevici**](https://github.com/AntonioCastro-dev/Diseno-Interfaces/tree/main/proyectoSevici) - Aplicación de Sevici con formularios de inicio de sesión y registro. Hecha con React Native.  
+- [**FitnessApp**](https://github.com/AntonioCastro-dev/Diseno-Interfaces/tree/main/fitnessApp) - Aplicación de fitness con React Native enfocada principalmente en la parte gráfica.  
+- [**Almazon**](https://github.com/AntonioCastro-dev/Programacion-Multimedia-Dispositivos-Moviles/tree/main/Almazon) - Aplicación para gestión de inventario de un almacén. Hecha con Java y XML, permite agregar, eliminar y modificar productos de una lista.  
+
 
 ---
 
